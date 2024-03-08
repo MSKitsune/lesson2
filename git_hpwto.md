@@ -11,8 +11,12 @@ git add
 git add <имя файла>
 ```
 
-
+Создание коммитов
+```sh
 git commit
+```
+
+
 got log
 git log
 git checkout
