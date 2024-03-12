@@ -46,5 +46,8 @@ git branch <branch_name>
 git branch -d <имя_ветки>
 ```
 
+Посмотреть лог сместе со всеми ветками
+```sh
 git log --oneline --graph
+```
 
