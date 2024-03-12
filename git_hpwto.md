@@ -56,3 +56,7 @@ git log --oneline --graph
 git merge
 ```
 
+Показать разницу между версиями
+```sh
+git diff
+```
