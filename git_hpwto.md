@@ -16,7 +16,10 @@ git add <имя файла>
 git commit
 ```
 
-
+Посмотреть лог в полном виде
+```sh
 got log
+```
 git log
+
 git checkout
