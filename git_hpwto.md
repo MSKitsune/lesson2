@@ -40,3 +40,10 @@ git branch
 ```sh
 git branch <имя_ветки>
 ```
+
+Удаление черновой ветки
+```sh
+git branch -d <имя_ветки>
+```
+
+git log --oneline --graph
