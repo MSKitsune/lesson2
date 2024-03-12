@@ -38,5 +38,5 @@ git branch
 
 Создание новой ветки
 ```sh
-git branch <имя_ветки>
+git branch <branch_name>
 ```
