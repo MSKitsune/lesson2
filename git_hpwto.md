@@ -13,7 +13,7 @@ git add <имя файла>
 
 Создание коммитов
 ```sh
-git commit
+git commit -m "Message text"
 ```
 
 Посмотреть лог в полном виде
