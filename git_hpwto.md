@@ -48,3 +48,4 @@ git branch -d <имя_ветки>
 
 git log --oneline --graph
 
+
