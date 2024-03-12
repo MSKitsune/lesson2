@@ -20,6 +20,10 @@ git commit
 ```sh
 got log
 ```
-git log
+
+Посмотреть лог в сокращенном виде
+```sh
+git log --oneline
+```
 
 git checkout
