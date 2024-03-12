@@ -51,7 +51,8 @@ git branch -d <имя_ветки>
 git log --oneline --graph
 ```
 
-Слияние веток
+Совмещение двух вариантов текста
 ```sh
-git merge <имя_ветки>
+git merge
 ```
+
