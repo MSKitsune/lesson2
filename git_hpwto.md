@@ -26,4 +26,7 @@ got log
 git log --oneline
 ```
 
+Перемещение по веткам
+```sh
 git checkout
+```
